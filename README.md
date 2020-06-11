@@ -17,7 +17,7 @@ Simple Model that detects the face mask both with video and Image as per inout
   Working:
 </h3>
 <p>
-***the working is very simple and has no addition installations required***<br>
+*** the working is very simple and has no addition installations required ***<br>
   1. Run Pre-Process file named as <code>py data_preprocssing.py</code><br>
   2. Run Train daata as <code>py trainData.py</code><br>
   3. Run final file face mask detector as <code>py face_mask_detector.py</code><br>
