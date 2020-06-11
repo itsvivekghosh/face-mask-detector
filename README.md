@@ -22,14 +22,16 @@ Simple Model that detects the face mask both with video and Image as per inout
   2. Run Train daata as <br><code>py trainData.py</code><br>
   3. Run final file face mask detector as <br><code>py face_mask_detector.py</code><br>
 </p>
-
+<p>=============================================================================================================================<br>
 <br>
 <h2>
   Program Explanation:
 </h2>
 <br>
 <p>
-  
+  <p>The Program initially takes all the files which is read by <code>os.listdir()</p>
+    
+    ==========================================================
 </p>
 <br>
 <h3>For Downloading the dataset files or image files click the link below to my Google Drive</h3><br><br>
